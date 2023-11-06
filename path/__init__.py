@@ -1,1 +1,1 @@
-from .validator import DirValidator
+from .convert import convert, ConvertMedia
